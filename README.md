@@ -1,5 +1,5 @@
 <a name="top"></a>
-# $\color{LimeGreen}{OWASP\ Mutillidae\ II\ -\ Forked\ and\ enhanced\ to\ showcase\ DevSecOps\ pipelines\}$
+# ![OWASP Mutillidae II](https://img.shields.io/badge/OWASP%20Mutillidae%20II%20--%20Forked%20&%20Enhanced%20for%20DevSecOps%20Pipelines-limegreen?style=for-the-badge&logo=owasp&logoColor=white)
 
 <div align="center">
     <a href="https://sonarcloud.io/summary/new_code?id=meleksabit_mutillidae">
@@ -23,31 +23,31 @@ OWASP Mutillidae II is a free, open-source, deliberately vulnerable web applicat
     * Introduced a **SonarCloud workflow** for seamless integration with SonarCloud’s continuous analysis tools.
     * Implemented a **Quality Gate** in the Jenkins pipeline to ensure code meets the required quality standards before deployment.
 
-## $\color{red}{Project\ Announcements\}$
+## 📢Project Announcements
 
 > [!TIP]
 > Stay updated with project announcements on Twitter: [webpwnized](https://twitter.com/webpwnized)
 
-## $\color{Melon}{Tutorials\}$
+## <img height="32" width="32" src="https://cdn.simpleicons.org/youtube" /> Tutorials
 
 > [!TIP]
 > Explore our tutorials on YouTube: [webpwnized YouTube channel](https://www.youtube.com/user/webpwnized)
 
-## $\color{Aquamarine}{Installation\ Guides\}$
+## 📜👉Installation Guides
 
 Please check the installation steps in [README-INSTALLATION.md](README-INSTALLATION.md)
 
-## $\color{CarnationPink}{Location\ of\ source\ code\}$
+## 📍🗺️</>Location of source code
 
 > [!IMPORTANT]
 > Note carefully that the source code ishas moved to the ***src*** project directory. **Be careful to adjust accordingly.**
 
-## $\color{Goldenrod}{LAMP\ Stack\}$
+## <img height="32" width="32" src="https://cdn.simpleicons.org/linux" /><img height="32" width="32" src="https://cdn.simpleicons.org/apache" /><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /><img height="32" width="32" src="https://cdn.simpleicons.org/php" />LAMP Stack
 
 > [!IMPORTANT]
 > Note carefully that the source code ishas moved to the ***src*** project directory. **Be careful to adjust accordingly.** If you have a LAMP stack set up already, you can skip directly to installing Mutillidae. Check out our [comprehensive installation guide](README-INSTALLATION.md) for detailed instructions. Watch the video tutorial: [How to Install Mutillidae on LAMP Stack](https://www.youtube.com/watch?v=TcgeRab7ayM)
 
-## $\color{ProcessBlue}{Docker\}$
+## <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />Docker
 
 > [!NOTE]
 > Note carefully that the source code ishas moved to the ***src*** project directory. **Be careful to adjust accordingly.**
@@ -59,12 +59,12 @@ Please check the installation steps in [README-INSTALLATION.md](README-INSTALLAT
 - [How to Run Mutillidae from DockerHub Images](https://www.youtube.com/watch?v=c1nOSp3nagw)
 - [How to Run Mutillidae on Google Kubernetes Engine (GKE)](https://www.youtube.com/watch?v=uU1eEjrp93c)
 
-## $\color{Magenta}{Usage\}$
+## ⚡️⏳Usage
 
 > [!TIP]
 > Explore a large number of video tutorials available on the [webpwnized YouTube channel](https://www.youtube.com/playlist?list=PLZOToVAK85MrsyNmNp0yyUTBXqKRTh623) for guidance on using Mutillidae.
 
-## $\color{SeaGreen}{Key\ Features\}$
+## 🔑✨Key Features
 
 - Contains over 40 vulnerabilities and challenges, covering each of the OWASP Top Ten from 2007 to 2017
 - Mutillidae is actually vulnerable, eliminating the need for users to enter a "magic" statement
@@ -75,7 +75,7 @@ Please check the installation steps in [README-INSTALLATION.md](README-INSTALLAT
 - Widely used in graduate security courses, corporate web security training, and as an assessment target for vulnerability assessment software
 - Regularly updated to maintain relevance and effectiveness
 
-## $\color{purple}{Directory\ Descriptions\}$
+## 🗀Directory Descriptions
 
 ```
 .
